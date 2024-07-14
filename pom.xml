@@ -135,9 +135,9 @@
         </dependency>
         <!-- SimplixStorage -->
         <dependency>
-            <groupId>com.github.poyrazinan</groupId>
+            <groupId>com.github.Geik-xyz</groupId>
             <artifactId>SimplixStorage</artifactId>
-            <version>-ae92994823-1</version>
+            <version>ae92994823</version>
             <scope>compile</scope>
         </dependency>
         <!-- NBT Api -->
